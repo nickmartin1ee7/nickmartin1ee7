@@ -14,4 +14,4 @@
 ![Nick's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nickmartin1ee7&layout=compact&langs_count=8&hide_border=true)
 <br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nickmartin1ee7.nickmartin1ee7)
