@@ -14,5 +14,6 @@
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=nickmartin1ee7&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Nick's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nickmartin1ee7&layout=compact&langs_count=8&hide_border=true)
 <br />
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=nickmartin1ee7)](https://github.com/ryo-ma/github-profile-trophy)
+<br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nickmartin1ee7.nickmartin1ee7)
