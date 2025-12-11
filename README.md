@@ -11,4 +11,6 @@
 👨‍💻 I am a .NET Applications Developer with a BSBA in Computer Information Systems with a concentration in Information Security. </br>
 🌱 I am passionate about learning new technologies and applying what I learn in my work. </br>
 
+![Nick's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nickmartin1ee7&layout=compact&langs_count=8&hide_border=true)
+<br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nickmartin1ee7.nickmartin1ee7)
